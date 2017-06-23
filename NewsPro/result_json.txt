@@ -1,0 +1,62 @@
+{
+    "n1.txt": {
+        "code": 0,
+        "sentiment": 0.665722668170929,
+        "title": "Middle age Health Crisis Warning",
+        "abstract": "When arriving at King's Cross Harry soon realises that there is no platform 9 and 3/4, or at least that is visible. My favourite series and possible favourite book of all time are the Harry Potter series by J.K. Rowling. Hagrid also tells Harry how he came to live at Privet Drive as his parents were murdered by the Dark Lord, Lord Voldemort. The first book is Harry Potter and the Philosopher's Stone. The story starts with Number 4 Privet Drive about a boy called Harry Potter who lives in the cupboard under the stairs of a house owned by Mr and Mrs Dursley with their overly spoiled son called Dudley. ",
+        "time": "2017-03-23",
+        "keywords": [
+            {
+                "word": "potter",
+                "drequency": 4
+            },
+            {
+                "word": "hogwarts",
+                "drequency": 5
+            },
+            {
+                "word": "letters",
+                "drequency": 4
+            },
+            {
+                "word": "book",
+                "drequency": 5
+            },
+            {
+                "word": "harry",
+                "drequency": 14
+            }
+        ],
+        "message": "success"
+    },
+    "n2.txt": {
+        "code": 0,
+        "sentiment": 0.9722347855567932,
+        "title": "Colombia landslides: Over 200 die in Putumayo floods",
+        "abstract": "Hours of heavy rains overnight caused rivers to burst their banks, flooding homes with mud in Putumayo province. President Juan Manuel Santos, who travelled to the area, said troops had been deployed as part of a national emergency response. \nIn neighbouring Peru, more than 90 people have died since the start of the year because of unusually heavy rainfall, which also caused landslides and flash floods.\n Jose Antonio Castro, mayor of the provincial capital Mocoa, told Caracol radio that the town was \"totally isolated\", without electricity and water. \"The mud is up to the roof,\" he told Caracol radio. ",
+        "time": "2017-04-01",
+        "keywords": [
+            {
+                "word": "heavy",
+                "drequency": 3
+            },
+            {
+                "word": "caused",
+                "drequency": 3
+            },
+            {
+                "word": "landslides",
+                "drequency": 3
+            },
+            {
+                "word": "neighbourhoods",
+                "drequency": 2
+            },
+            {
+                "word": "told",
+                "drequency": 5
+            }
+        ],
+        "message": "success"
+    }
+}
